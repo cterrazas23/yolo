@@ -1,0 +1,2 @@
+# yolo
+random ideas
